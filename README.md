@@ -1,6 +1,6 @@
-# Receive Attachment Bot Sample
+# Receive Image Attachment and Translate It to Text Bot Sample
 
-A sample bot that receives attachments sent by the user and translate it into text in Chinese Simplified.
+A sample bot that receives attachments sent by the user and translate it into text in Simplified Chinese.
 
 [![Deploy to Azure][Deploy Button]][Deploy CSharp/ReceiveAttachment]
 
