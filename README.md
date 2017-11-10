@@ -57,7 +57,7 @@ public virtual async Task MessageReceivedAsync(IDialogContext context, IAwaitabl
 
 You will see the following in the Bot Framework Emulator when opening and running the sample solution.
 
-![Sample Outcome](images/outcome.png)
+![Sample Outcome](https://www.facebook.com/JohnTaipei/videos/10155150637262749/)
 
 ### More Information
 
